@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @siva-prasad123
-- 👀 I’m interested in technology's 
+- 👀 I’m interested in development roles in software
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on data science
-- 📫 How to reach me 
+- 📫 Contact me on gmail 18pa1a05c4@vishnu.edu.in
 
 <!---
 siva-prasad123/siva-prasad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
