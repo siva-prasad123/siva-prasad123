@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @siva-prasad123
-- 👀 I’m interested in development roles in software
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data science
-- 📫 Contact me on gmail 18pa1a05c4@vishnu.edu.in
+# 👋 Hi, I'm Siva Prasad Perla
 
-<!---
-siva-prasad123/siva-prasad123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Senior Software Engineer with 4+ years of experience in building scalable backend systems  
+
+🚀 Skilled in:
+- Java (8, 11, 21)
+- Spring Boot & Microservices Architecture
+- REST APIs & Distributed Systems
+- PostgreSQL, MySQL
+- Docker, Kubernetes, CI/CD
+- Google Cloud Platform (GCP), AWS
+
+📌 Currently working on:
+- Google Cloud Backup & Disaster Recovery (GCBDR)
+- High-performance backend systems & cloud-native applications
+
+🔍 Interested in:
+- Backend Engineering
+- System Design
+- Scalable Distributed Systems
+
+🤝 Open to collaborate on:
+- Java / Spring Boot projects
+- Backend system design problems
+- Open-source contributions
+
+📫 Reach me at:
+- 📧 sivaprasadperla.careers@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/siva-prasad-perla-259105228/)
